@@ -3,10 +3,10 @@
 ## Tabla de Contenidos
 1. [Introduction](#introduction)
 3. [CAD](#cad)
-4. Materials
-5. Manufacture
-6. Electric diagram
-7. Code
+4. [Materials](#materials)
+5. [Manufacture](#manufacture)
+6. [Electric diagram](#electric-diagram)
+7. [Code](#code)
 
 ## Introduction
 This repository serves as documentation for Sumobot development, a collaborative work between students from the Department of Mechanical Engineering at the University of Chile.

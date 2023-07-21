@@ -43,5 +43,9 @@ The project assembly manual can be found in the repository.
 ## Electric diagram
 The following image shows the connection diagram of the different electronic components:
 
+![Diagrama Eléctrico](https://github.com/juancantillana/SumoProyect/blob/main/Img/Diagrama.png)
+
+
+
 ## Code
 The code is attached in this repository.

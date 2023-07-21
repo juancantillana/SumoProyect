@@ -1,4 +1,5 @@
 # SumoProyect
+
 ## Tabla de Contenidos
 1. Introduction
 2. CAD
@@ -6,6 +7,7 @@
 4. Manufacture
 5. Electric diagram
 6. Code
+
 ## Introduction
 This repository serves as documentation for Sumobot development, a collaborative work between students from the Department of Mechanical Engineering at the University of Chile.
 
@@ -22,8 +24,11 @@ The electronic components used are listed below:
 1. Arduino NANO
 2. Sensor Ultrasónico HCSR04
 3. Sensor de Línea TCRT5000
+4. Motor DC
+5. Controlador Motor L298N
 ### Fixing elements
 Different bolts and nuts are used to fix all the components.
+
 ## Manufacture
 The entire project was 3D printed. The printed components are:
 1. Wheels
@@ -34,7 +39,7 @@ The printing parameters are:
 1. Parámetro 1
 2. Parámetro 2
 3. Parámetro 3
-4. 
+
 ## Electric diagram
 The following image shows the connection diagram of the different electronic components:
 

@@ -12,6 +12,8 @@ This repository serves as documentation for Sumobot development, a collaborative
 Here you will find the design, code, manufacturing and all the necessary documentation to be able to replicate the project and adjust according to the different requirements
 ## CAD
 The different components such as the general assembly of the Sumobot can be found in the following link: [Repositorio](https://grabcad.com/library/sumobot-g3-uchile-1)
+![Ensamble General](https://github.com/juancantillana/SumoProyect/blob/main/Img/Vista%20General.jpeg)
+
 ## Materials
 ### General materials
 PLA was produced for the manufacture of the main components.
@@ -23,7 +25,12 @@ The electronic components used are listed below:
 ### Fixing elements
 Different bolts and nuts are used to fix all the components.
 ## Manufacture
-The entire project was 3D printed. The printing parameters are:
+The entire project was 3D printed. The printed components are:
+1. Wheels
+2. Chasis
+3. Wheel and engine mounts
+
+The printing parameters are:
 1. Parámetro 1
 2. Parámetro 2
 3. Parámetro 3

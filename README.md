@@ -1,12 +1,12 @@
 # SumoProyect
 
 ## Tabla de Contenidos
-1. Introduction
-2. CAD
-3. Materials
-4. Manufacture
-5. Electric diagram
-6. Code
+1. [Introduction](#introduction)
+3. [CAD](#cad)
+4. Materials
+5. Manufacture
+6. Electric diagram
+7. Code
 
 ## Introduction
 This repository serves as documentation for Sumobot development, a collaborative work between students from the Department of Mechanical Engineering at the University of Chile.

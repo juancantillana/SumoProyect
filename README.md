@@ -18,9 +18,9 @@ The different components such as the general assembly of the Sumobot can be foun
 
 ## Materials
 ### General materials
-PLA was produced for the manufacture of the main components.
-### Electronic materials
-The electronic components used are listed below:
+The main components were made of PLA filaments.
+### Electronic elements
+
 * Arduino Nano 3.0 (1 un)
 * Botón Pulsador (1 un)
 * Sensor Ultrasónico HCSR04 (1 un)
@@ -29,11 +29,9 @@ The electronic components used are listed below:
 * Controlador Motor L298N (1 un)
 * Batería Lipo 11.1 V 3000 mAh (1 un)
 * Shield Expansión I/O para Arduino Nano 3.0 (1 un)
-* Correas GT2 dentada 400 mm de largo, cerrada y 6 mm de ancho (2 un)
-* Polea Lisa 5 mm interior para GT2 6 mm (2 un)
-* Rodamiento KFL08 (4 un)
+
 ### Fixing elements
-Different bolts and nuts are used to fix all the components.
+
 * Perno Hexagonal M8x70 (2 un)
 * Parker Plano M5x30 (2 un)
 * Parker M5x25 (4 un)
@@ -44,6 +42,12 @@ Different bolts and nuts are used to fix all the components.
 * Tuerca M8 (2 un)
 * Tuerca M5 (8 un)
 * Tuerca M3 (34 un)
+
+### Wheels elements
+
+* Correas GT2 dentada 400 mm de largo, cerrada y 6 mm de ancho (2 un)
+* Polea Lisa 5 mm interior para GT2 6 mm (2 un)
+* Rodamiento KFL08 (4 un)
 
 ## Manufacture
 The entire project was 3D printed. The printed components are:

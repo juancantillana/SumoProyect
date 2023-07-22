@@ -22,6 +22,7 @@ PLA was produced for the manufacture of the main components.
 ### Electronic materials
 The electronic components used are listed below:
 * Arduino Nano 3.0 (1 un)
+* Botón Pulsador (1 un)
 * Sensor Ultrasónico HCSR04 (1 un)
 * Sensor de Línea TCRT5000 (2 un)
 * Motor DC (2 un)

@@ -58,8 +58,6 @@ The entire project was 3D printed. The printed components are:
 
 All these components were established with a layer height of 0.2 mm.
 
-The project assembly manual can be found in the repository.
-
 ## Electric diagram
 The following image shows the connection diagram of the different electronic components:
 
